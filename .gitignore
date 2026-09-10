@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/*.csv
+data/covid_analytics.db
+.ipynb_checkpoints/
+.pytest_cache/
